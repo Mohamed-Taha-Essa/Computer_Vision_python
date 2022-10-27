@@ -1,6 +1,1 @@
-# Computer_Vision_python
-# this file contain :
-  ## image as numerical data.
-  ## visualizing RGB channel .
-  ## detect green back ground and change it using hsv color.
-  ## build project to classify between day images and night images .
+This repo based on Udacity course Introduction to Computer Vision program. It consists of tutorial notebooks that demonstrate, or challenge you to complete, various computer vision applications and techniques. These notebooks depend on a number of software packages to run, and so, we suggest that you create a local environment with these dependencies by following the instructions below.
